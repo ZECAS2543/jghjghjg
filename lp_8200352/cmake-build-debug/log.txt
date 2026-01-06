@@ -1,0 +1,76 @@
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Ativos guardados em ficheiro.
+[SISTEMA] Tecnicos guardados com sucesso.
+[SISTEMA] Departamentos guardados com sucesso.
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Ativos guardados em ficheiro.
+[SISTEMA] Tecnicos guardados com sucesso.
+[SISTEMA] Departamentos guardados com sucesso.
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Novo ativo inserido no sistema.
+[INFO] Dados de um ativo foram editados.
+[AVISO] Um ativo foi marcado como inativo.
+[AVISO] Um ativo foi marcado como inativo.
+[INFO] Dados de um ativo foram editados.
+[SISTEMA] Ativos guardados em ficheiro.
+[SISTEMA] Tecnicos guardados com sucesso.
+[SISTEMA] Departamentos guardados com sucesso.
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Novo ativo inserido no sistema.
+[INFO] Dados de um ativo foram editados.
+[AVISO] Um ativo foi marcado como inativo.
+[AVISO] Um ativo foi marcado como inativo.
+[INFO] Dados de um ativo foram editados.
+[INFO] Tecnico registado no sistema.
+[AVISO] Tecnico inativado.
+[INFO] Novo departamento criado.
+[AVISO] Departamento marcado como inativo.
+[INFO] Nova ordem de manutencao aberta.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Novo ativo inserido no sistema.
+[INFO] Tecnico registado no sistema.
+[INFO] Novo departamento criado.
+[INFO] Nova ordem de manutencao aberta.
+[AVISO] Uma ordem de manutencao foi cancelada.
+[SISTEMA] Ativos guardados em ativos.txt
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Nova ordem de manutencao aberta.
+[AVISO] Tecnico inativado.
+[INFO] Nova ordem de manutencao aberta.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Novo ativo inserido no sistema.
+[INFO] Nova ordem de manutencao aberta.
+[AVISO] Uma ordem de manutencao foi cancelada.
+[AVISO] Uma ordem de manutencao foi cancelada.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Nova ordem de manutencao aberta.
+[SISTEMA] Ativos guardados em ativos.txt
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Ativos guardados em ativos.txt
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[INFO] Novo ativo inserido no sistema.
+[INFO] Tecnico registado no sistema.
+[INFO] Novo departamento criado.
+[INFO] Nova ordem de manutencao aberta.
+[AVISO] Uma ordem de manutencao foi cancelada.
+[SISTEMA] Ativos guardados em ativos.txt
+[SISTEMA] Aplicacao encerrada pelo utilizador.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+[SISTEMA] Aplicacao iniciada.
+Aplicacao iniciada.
+Ativos guardados em ativos.txt
+Aplicacao encerrada pelo utilizador.
+Aplicacao iniciada.
